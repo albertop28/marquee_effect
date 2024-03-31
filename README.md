@@ -20,6 +20,3 @@ Make sure to connect input signals such as sensor input and clock signals approp
 
 [Nestor Ruiz]
 
-## Acknowledgments
-
-[Optional: Acknowledge any contributions, inspirations, or resources used in developing this code.]
