@@ -1,0 +1,33 @@
+#Sensor
+NET "sensor" LOC = "D4";
+NET "clock" LOC = "E7";
+NET "clks" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "clks" LOC = "E15";
+#Leds y audio
+NET "Leds(0)" LOC = "M1";
+NET "Leds(1)" LOC = "N1";
+NET "audio(1)" LOC = "D7";
+NET "audio(0)" LOC = "E6";
+#Divisores de frecuencia
+NET "frec(0)" LOC = "E14";
+NET "frec(1)" LOC = "C14";
+NET "frec(2)" LOC = "A13";
+NET "frec(3)" LOC = "C11";
+#Displays
+NET "display(0)" LOC = "N15";
+NET "display(1)" LOC = "L14";
+NET "display(2)" LOC = "K15";
+NET "display(3)" LOC = "P14";
+NET "display(4)" LOC = "P15";
+NET "display(5)" LOC = "M15";
+NET "display(6)" LOC = "L15";
+NET "display(7)" LOC = "K13";
+#Anodos
+NET "AN(7)" LOC = "G12";
+NET "AN(6)" LOC = "F13";
+NET "AN(5)" LOC = "H12";
+NET "AN(4)" LOC = "G13";
+NET "AN(3)" LOC = "H13";
+NET "AN(2)" LOC = "K11";
+NET "AN(1)" LOC = "J13";
+NET "AN(0)" LOC = "K12";
